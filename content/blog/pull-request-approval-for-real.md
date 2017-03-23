@@ -1,7 +1,10 @@
 ---
 date: 2015-11-15T00:00:00-00:00
 draft: false
+aliases:
+- /2015/11/05/a-pull-request-approval-workflow/
 title: Pull request approval, for real
+
 ---
 
 At [Flint Hills Design](http://flinthillsdesign.com/), we use GitHub. We haven't always, and we still host a lot of repos elsewhere on our own servers, but there are just too many benefits to using a service like GitHub. Especially when it comes to collaboration.

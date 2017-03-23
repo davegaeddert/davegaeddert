@@ -2,6 +2,8 @@
 date: 2014-08-14T00:00:00-00:00
 draft: false
 title: The plunge
+aliases:
+- /2014/08/27/the-plunge/
 ---
 
 I've had it on my list of things to do for a long time, even tried once or twice. Being a [software developer](http://flinthillsdesign.com), building a blog is one of those things that always sounds like a nice side project, but then you get started, hung up on design and functionality, and a month later it falls by the wayside. I know, I've done it before.

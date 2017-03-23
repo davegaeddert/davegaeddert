@@ -2,6 +2,8 @@
 date: 2014-08-29T00:00:00-00:00
 draft: false
 title: gitignore.it
+aliases:
+- /2014/08/29/gitignore-it/
 ---
 
 Last week I had a little free time and started a small side project. I've had it on my list for a while - I imagine most developers have a list somewhere of ideas for projects or apps, some complex and some simple. This one is simple.

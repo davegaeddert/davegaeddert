@@ -2,6 +2,8 @@
 date: 2014-10-11T00:00:00-00:00
 draft: false
 title: Sibbell - emails for new releases on GitHub
+aliases:
+- /2014/10/11/sibbell-emails-for-new-releases-on-github/
 ---
 
 As a developer, I leverage tons of open source projects to help me get good work done quickly. Judging by the popularity of GitHub...I don't think I'm alone in that. One problem I've realized is that there is no good way for me to know when those projects I like and use get updated. The idea is pretty simple, when Twitter Bootstrap gets updated, that's something I want to know about right away.

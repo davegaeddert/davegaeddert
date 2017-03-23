@@ -2,6 +2,8 @@
 date: 2014-12-31T00:00:00-00:00
 draft: false
 title: Celery in local Django development
+aliases:
+- /2014/12/31/celery-in-local-django-development/
 ---
 
 Recently I set up [Celery](http://www.celeryproject.org/) to perform some background tasks for [Sibbell](http://sibbell.com), a Django project. The tasks were pretty simple, and I wasn't interested in installing [RabbitMQ](http://www.rabbitmq.com/) (which I was using on the production server) on my local machine at the time for use in the development environment.

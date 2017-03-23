@@ -2,6 +2,8 @@
 date: 2014-09-14T00:00:00-00:00
 draft: false
 title: Reusing effort otherwise "waster"
+aliases:
+- /2014/09/13/reusing-effort-otherwise-wasted/
 ---
 
 One concept I've always loved is the idea of utilizing effort that is otherwise lost. By that I mean capturing time and energy that we spend every day, and getting as much value out of it as possible.

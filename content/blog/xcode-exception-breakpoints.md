@@ -2,6 +2,8 @@
 date: 2014-12-01T00:00:00-00:00
 draft: false
 title: Xcode exception breakpoints
+aliases:
+- /2014/12/02/xcode-exception-breakpoints/
 ---
 
 Having trouble tracking down where your exceptions are coming from in iOS development? If you're not using exception breakpoints, you should be.

@@ -2,6 +2,8 @@
 date: 2015-02-15T00:00:00-00:00
 draft: false
 title: Multiple tabs in Chrome with different sessions
+aliases:
+- /2015/02/28/multiple-tabs-in-chrome-with-different-sessions/
 ---
 
 I work on a lot of web apps. Sometimes they get pretty complicated and I end up viewing the site as one user in Chrome, another in an incognito window, and another in Safari. I've been doing this for a long time. It wasn't until recently that I realized this, and realized how dumb it was.

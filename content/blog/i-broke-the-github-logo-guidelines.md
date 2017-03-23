@@ -2,6 +2,8 @@
 date: 2015-07-15T00:00:00-00:00
 draft: false
 title: I broke the GitHub logo guidelines, and they thanked me.
+aliases:
+- /2015/07/06/i-broke-the-github-logo-guidelines-and-they-thanked-me/
 ---
 
 I have a [simple web app that uses the GitHub APIs](https://sibbell.com/). Naturally, the GitHub name and Octocat logo show up a lot around the site.

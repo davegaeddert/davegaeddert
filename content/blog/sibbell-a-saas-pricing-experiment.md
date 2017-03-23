@@ -2,6 +2,8 @@
 date: 2015-05-15T00:00:00-00:00
 draft: false
 title: "Sibbell: A SaaS Pricing Experiment"
+aliases:
+- /2015/05/19/sibbell-a-saas-pricing-experiment/
 ---
 
 ## Background

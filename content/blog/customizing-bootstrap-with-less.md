@@ -2,6 +2,8 @@
 date: 2015-04-15T00:00:00-00:00
 draft: false
 title: Customizing Bootstrap with Less
+aliases:
+- /2015/04/22/customizing-bootstrap-with-less/
 ---
 
 We at [Flint Hills Design](http://flinthillsdesign.com) build a lot of websites. We also use [Bootstrap](http://getbootstrap.com/) to build a lot of those sites. "Why" is a whole 'nother topic on its own, but needless to say, it saves us a ton of time and energy, and allows our small team to accomplish more than we ever could if we started every site from scratch.

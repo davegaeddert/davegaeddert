@@ -2,6 +2,8 @@
 date: 2014-09-16T00:00:00-00:00
 draft: false
 title: iOS 8 Notification Actions
+aliases:
+- /2014/09/16/ios-8-notification-actions/
 ---
 
 [Skip to the code](#tutorial)
@@ -17,7 +19,7 @@ Maybe I didn't look hard enough, who knows. Anyway I decided to make quick demo 
 All of the following can be found in a ready-to-go Xcode project on [GitHub](https://github.com/davegaeddert/tut-ios8-notifications), I know I always just jump there...
 
 ## Create a notification action
-```language-objectivec
+```objectivec
 UIMutableUserNotificationAction *acceptAction = [[UIMutableUserNotificationAction alloc] init];
 acceptAction.identifier = @"ACCEPT_IDENTIFIER";
 acceptAction.title = @"Accept";
@@ -33,7 +35,7 @@ acceptAction.authenticationRequired = NO;
 ```
 ## Create a notification action category
 This allows you to group notifications, so for a 'Mail' category your might have 'Reply', 'Delete', and 'Archive'. Right now we're creating an 'Invite' category, with our one action of 'Accept'.
-```language-objectivec
+```objectivec
 UIMutableUserNotificationCategory *inviteCategory = [[UIMutableUserNotificationCategory alloc] init];
 inviteCategory.identifier = @"INVITE_CATEGORY";
 
@@ -47,7 +49,7 @@ inviteCategory.identifier = @"INVITE_CATEGORY";
 ```
 
 ## Now register for those notifications
-```language-objectivec
+```objectivec
 UIUserNotificationType types = (UIUserNotificationTypeAlert | UIUserNotificationTypeBadge | UIUserNotificationTypeSound);
 
 NSSet *categories = [NSSet setWithObjects:inviteCategory, nil];
@@ -57,7 +59,7 @@ UIUserNotificationSettings *settings = [UIUserNotificationSettings settingsForTy
 ```
 
 When registering notification settings, this callback will be called:
-```language-objectivec
+```objectivec
 - (void)application:(UIApplication *)application didRegisterUserNotificationSettings:(UIUserNotificationSettings *)notificationSettings {
 
     // Get the notifications types that have been allowed, do whatever with them
@@ -73,7 +75,7 @@ When registering notification settings, this callback will be called:
 ## Send yourself a local notification
 ![](/img/blog/Screen-Shot-2014-09-16-at-6-02-50-PM.png)
 ![](/img/blog/Screen-Shot-2014-09-16-at-6-04-01-PM.png)
-```language-objectivec
+```objectivec
 UILocalNotification *notification = [[UILocalNotification alloc] init];
 notification.alertBody = @"Hey!";
 notification.category = @"INVITE_CATEGORY";
@@ -89,7 +91,7 @@ notification.fireDate = [NSDate dateWithTimeIntervalSinceNow:5];
 
 Sweet! Now you should have received the notification (note: you need to be anywhere but the app to see the notification with its actions: home screen, lock screen, another app, etc.), if you choose the 'Accept' action we created then this callback will be called so you can deal with it.
 
-```language-objectivec
+```objectivec
 - (void)application:(UIApplication *)application handleActionWithIdentifier:(NSString *)identifier forLocalNotification:(UILocalNotification *)notification completionHandler:(void (^)())completionHandler {
 
     if ([identifier isEqualToString:@"ACCEPT_IDENTIFIER"]) {
