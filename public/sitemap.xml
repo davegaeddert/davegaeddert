@@ -2,7 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://davegaeddert.com/code/</loc>
+    <lastmod>2017-03-23T15:41:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/about/</loc>
+    <lastmod>2017-03-23T15:33:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/pull-request-approval-for-real/</loc>
+    <lastmod>2015-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/this-is-what-side-projects-look-like./</loc>
+    <lastmod>2015-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/google-sheets-formula-to-convert-us-state-abbreviations/</loc>
+    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/i-broke-the-github-logo-guidelines-and-they-thanked-me./</loc>
+    <lastmod>2015-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/sibbell-a-saas-pricing-experiment/</loc>
+    <lastmod>2015-05-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/customizing-bootstrap-with-less/</loc>
+    <lastmod>2015-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/multiple-tabs-in-chrome-with-different-sessions/</loc>
+    <lastmod>2015-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/celery-in-local-django-development/</loc>
+    <lastmod>2014-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/xcode-exception-breakpoints/</loc>
+    <lastmod>2014-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/sibbell---emails-for-new-releases-on-github/</loc>
+    <lastmod>2014-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/ios-8-notification-actions/</loc>
+    <lastmod>2014-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/reusing-effort-otherwise-waster/</loc>
+    <lastmod>2014-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/gitignore.it/</loc>
+    <lastmod>2014-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/the-plunge/</loc>
+    <lastmod>2014-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/blog/</loc>
+    <lastmod>2015-11-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://davegaeddert.com/fixed/</loc>
+    <lastmod>2017-03-23T15:41:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://davegaeddert.com/</loc>
+    <lastmod>2017-03-23T15:41:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   

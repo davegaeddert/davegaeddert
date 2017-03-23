@@ -13,10 +13,10 @@
 <title>
 
 
-     404 Page not found 
+     Celery in local Django development 
 
 </title>
-<link rel="canonical" href="https://davegaeddert.com/404/">
+<link rel="canonical" href="https://davegaeddert.com/celery-in-local-django-development/">
 
 
 
@@ -48,8 +48,6 @@
 >
 
 
-
-  <link href="https://davegaeddert.com/404.html/index.xml" rel="alternate" type="application/rss+xml" title="davegaeddert" />
 
 
 
@@ -105,15 +103,45 @@
     </div>
 </section>
 
-<section class="main">
-    <div class="container f04">
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
         <div class="content">
-            <div class="num">404</div>
-            <div class="detail">Sorry, this page does not exist.</div>
-            <div class="suggestion"><a href="/">Visit home page</a></div>
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    Celery in local Django development
+
+</div>
+
+                    <div class="initials"><a href="https://davegaeddert.com/"></a></div>
+                </div>
+                <div class="meta">
+                    
+                    <div class="date" title='Wed Dec 31 2014 00:00:00 &#43;0000'>Dec 31, 2014</div>
+                    
+                    
+                    <div class="reading-time"><div class="middot"></div>1 minute read</div>
+                    
+                </div>
+            </div>
+            <div class="markdown">
+                <p>Recently I set up <a href="http://www.celeryproject.org/">Celery</a> to perform some background tasks for <a href="http://sibbell.com">Sibbell</a>, a Django project. The tasks were pretty simple, and I wasn&rsquo;t interested in installing <a href="http://www.rabbitmq.com/">RabbitMQ</a> (which I was using on the production server) on my local machine at the time for use in the development environment.</p>
+
+<p>The solution? Use the <code>CELERY_ALWAYS_EAGER</code> <a href="http://celery.readthedocs.org/en/latest/configuration.html#celery-always-eager">setting</a>. It runs the tasks asynchronously, which in this case was just fine.</p>
+
+                <br>
+                <p><a href="/blog/">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                
+            </div>
         </div>
     </div>
 </section>
+
 
 
 <script>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixeds on davegaeddert</title>
+    <link>https://davegaeddert.com/fixed/index.xml</link>
+    <description>Recent content in Fixeds on davegaeddert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2017 15:41:21 -0500</lastBuildDate>
+    <atom:link href="https://davegaeddert.com/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>code</title>
+      <link>https://davegaeddert.com/code/</link>
+      <pubDate>Thu, 23 Mar 2017 15:41:21 -0500</pubDate>
+      
+      <guid>https://davegaeddert.com/code/</guid>
+      <description>&lt;p&gt;Unfortunately, not much of my work is open-source at the moment. Building a business takes a lot of work, and I have yet
+to figure out a good way to substantially contribute to open-source (or open-source our own work) while also making money.
+&lt;a href=&#34;https://github.com/davegaeddert&#34;&gt;https://github.com/davegaeddert&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://davegaeddert.com/about/</link>
+      <pubDate>Thu, 23 Mar 2017 15:33:12 -0500</pubDate>
+      
+      <guid>https://davegaeddert.com/about/</guid>
+      <description>&lt;p&gt;I live in Kansas, currently trying to build a small team to develop software as &lt;a href=&#34;http://dropseed.co/&#34;&gt;Dropseed&lt;/a&gt;. Also working with &lt;a href=&#34;http://flinthillsdesign.com/&#34;&gt;Flint Hills Design&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

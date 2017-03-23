@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+
+<title>
+
+
+     Pull request approval, for real 
+
+</title>
+<link rel="canonical" href="https://davegaeddert.com/pull-request-approval-for-real/">
+
+
+
+
+
+
+
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/default.min.css">
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:500">
+
+
+
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/pygments.css">
+    <link rel="stylesheet" href="/css/main.css">
+    
+
+
+
+
+<link rel="shortcut icon"
+
+    href="/img/favicon.ico"
+
+>
+
+
+
+
+
+
+</head>
+
+
+<body lang="">
+
+<section class="header">
+    <div class="container">
+        <div class="content">
+            
+              <a href="/"><img class="avatar" src="https://gravatar.com/avatar/a2c58001a61d06c06f1c8b8a76953844?s=50" /></a>
+            
+            <a href="/"><div class="name">Dave Gaeddert</div></a>
+            
+            <nav>
+                <ul>
+                    <li class="nav-blog"><a href="/blog/">Blog</a></li>
+                    <li class="nav-about"><a href="/about/">About</a></li>
+                    <li class="nav-code"><a href="/code/">Code</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+
+        
+            <a href="//github.com/davegaeddert" target="_blank" rel="noopener"><img class="icon" src="/img/github.svg" alt="github" /></a>
+        
+
+        
+            <a href="//twitter.com/davegaeddert" target="_blank" rel="noopener"><img class="icon" src="/img/twitter.svg" alt="twitter" /></a>
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+            <a href="https://davegaeddert.com/index.xml"><img class="icon" src="/img/rss.svg" alt="rss" /></a>
+        
+        </div>
+    </div>
+</section>
+
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    Pull request approval, for real
+
+</div>
+
+                    <div class="initials"><a href="https://davegaeddert.com/"></a></div>
+                </div>
+                <div class="meta">
+                    
+                    <div class="date" title='Sun Nov 15 2015 00:00:00 &#43;0000'>Nov 15, 2015</div>
+                    
+                    
+                    <div class="reading-time"><div class="middot"></div>3 minutes read</div>
+                    
+                </div>
+            </div>
+            <div class="markdown">
+                
+
+<p>At <a href="http://flinthillsdesign.com/">Flint Hills Design</a>, we use GitHub. We haven&rsquo;t always, and we still host a lot of repos elsewhere on our own servers, but there are just too many benefits to using a service like GitHub. Especially when it comes to collaboration.</p>
+
+<p>It&rsquo;s no secret that one of the best features of GitHub is the fork and pull request workflow. With public projects, forking a repository and asking for your changes to be merged back in to the main codebase makes a lot of sense. People can easily clone the code, fiddle around with it, and when they&rsquo;re ready, present it to the project maintainers to get their approval and hopefully get it merged into the public project.</p>
+
+<p>This formal, request and approval workflow is the same way that we handle internal projects. We have a spoken rule that an &ldquo;admin&rdquo; needs to review things before they get put into production. Unfortunately there&rsquo;s no way to actually implement this, other than to say &ldquo;don&rsquo;t click the merge button, even though you can&rdquo;</p>
+
+<p>Sure, the fork-flow accomplishes exactly this, but for us, the fork / multiple repo structure is unnecessarily complicated. We like to keep our tooling as simple as it needs to be. One way we like to keep it simple is to keep a project to one repository. Ideally, all of our developers could work on branches on the main repo, but nothing could be merged into master without approval. &ldquo;Limited write-access&rdquo; in a sense.</p>
+
+<p>With the new <a href="https://github.com/blog/2051-protected-branches-and-required-status-checks">GitHub protected branches</a>, we can actually have the best of both worlds. Protected branches, in short, let you choose specific tests that all code needs to pass, before it can be merged in to the master branch. The most common form that these status checks take is in continuous integration services, like Travis CI or Circle CI. But the cool thing about these status checks is that <em>anything can be a status check!</em> Code goes in, something happens, and a pass or fail comes out. It could be signing a CLA, checking commit message syntax, running traditional tests&hellip;anything. In addition, the &ldquo;merge&rdquo; button on pull requests can actually be disabled until these status checks pass!</p>
+
+<p>With that in mind, we created <a href="https://pullapprove.com/">PullApprove</a>. PullApprove is a dead simple service, utilizing webhooks and status checks to say whether or not a pull request has been approved (clever name, I know). Just decide who needs to approve things. The rules for who needs to be approve what can be as simple, or as complicated as you like. Do all of the developers need to review a PR? Maybe 2 of 3 admins need to give the ok? Or just one person needs to approve everything?</p>
+
+<p>There&rsquo;s a lot more to say, and maybe there will need to be some additional posts on this topic. The gist:</p>
+
+<h2 id="you-can-have-a-truly-formalized-approval-process-for-deciding-what-can-be-merged-and-what-can-t">You can have a truly formalized approval process for deciding what can be merged and what can&rsquo;t.</h2>
+
+<h4 id="https-pullapprove-com"><a href="https://pullapprove.com">https://pullapprove.com</a></h4>
+
+<hr />
+
+<p><img src="/img/blog/approve-by-comment.gif" alt="PullApprove with a comment" /></p>
+
+                <br>
+                <p><a href="/blog/">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-54223125-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='//www.google-analytics.com/analytics.js'></script>
+
+
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+  
+
+  <script type="text/javascript">
+    hljs.initHighlightingOnLoad();
+  </script>
+
+
+
+</body>
+</html>
+
