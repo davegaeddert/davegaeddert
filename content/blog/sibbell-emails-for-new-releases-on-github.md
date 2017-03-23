@@ -16,7 +16,7 @@ Getting notifications for new releases seems like a pretty simple thing! GitHub 
 
 
 ----
-#### So here is [Sibbell.com](http://sibbell.com/).
+## So here is [Sibbell.com](http://sibbell.com/).
 Right now Sibbell works in one easy way, have it notify you for any new releases for repos that you've starred on GitHub. That's it. I wanted it to be as simple as possible from the start, but if people find it appealing, there's all kinds of things you could do with it.
 ![](/img/blog/Screen-Shot-2014-10-11-at-11-36-26-AM.png)
 ![](/img/blog/Screen-Shot-2014-10-11-at-11-38-10-AM.png)

@@ -10,7 +10,7 @@ When I asked a coworker to help me with the original Sibbell homepage design, he
 
 ![Sibbell homepage with GitHub Octocat](/img/blog/sibbell.jpg)
 
-#### Turns out, they did see it. And they do care.
+## Turns out, they did see it. And they do care.
 
 A couple weeks ago I got an email from them entitled **Trademark Concerns About the "Sibbell" Website**. When I first saw it, I got a little worried that I had pissed off one of my favorite companies, nevermind the fact that Sibbell *completely* relies on GitHub at this point. But as I started reading the email, what I found was a remarkably polite, personal "[...] friendly request to ask you to remove the large Octocat logo in the background of your site to avoid any potential confusion."
 
@@ -18,5 +18,5 @@ I immediately removed the Octocat and replied. He thanked me for my quick respon
 
 ![Sibbell footer with GitHub affiliation comments](/img/blog/Screen-Shot-2015-07-05-at-5-22-00-PM.png)
 
-#### Customer service
+## Customer service
 All of this is not to say that "if you break the rules, people will give you free stuff". Rather, to point out the value in good customer service. This experience has only solidified my appreciation for what GitHub does and assured that I will continue to be an advocate for github.com. After all, integrations like Sibbell promote the use of GitHub and can serve as a form of marketing for them. Plus, now I'll be sporting a nice GitHub t-shirt every once in a while.

@@ -17,9 +17,9 @@ With the new [GitHub protected branches](https://github.com/blog/2051-protected-
 With that in mind, we created [PullApprove](https://pullapprove.com/). PullApprove is a dead simple service, utilizing webhooks and status checks to say whether or not a pull request has been approved (clever name, I know). Just decide who needs to approve things. The rules for who needs to be approve what can be as simple, or as complicated as you like. Do all of the developers need to review a PR? Maybe 2 of 3 admins need to give the ok? Or just one person needs to approve everything?
 
 There's a lot more to say, and maybe there will need to be some additional posts on this topic. The gist:
-#### You can have a truly formalized approval process for deciding what can be merged and what can't.
+## You can have a truly formalized approval process for deciding what can be merged and what can't.
 
-###### https://pullapprove.com
+#### https://pullapprove.com
 
 ---
 

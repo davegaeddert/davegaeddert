@@ -4,7 +4,7 @@ draft: false
 title: "Sibbell: A SaaS Pricing Experiment"
 ---
 
-#### Background
+## Background
 
 I suppose you could consider [Sibbell](https://sibbell.com) to be a SaaS (Software as a Service). Sibbell started out as a solution to a problem: how do I stay up-to-date with all of the open source projects that I use? 90% of the time when I find a bug (or better yet, a client finds a bug) in an open source library, it's already been fixed and I just don't know it.
 
@@ -12,7 +12,7 @@ GitHub continues to prove to be the "hub" of open source. Almost every open sour
 
 Sibbell does one thing: [notify you whenever the GitHub projects you use get updated](http://davegaeddert.com/2014/10/11/sibbell-emails-for-new-releases-on-github/).
 
-#### What I've learned so far
+## What I've learned so far
 Running a site like Sibbell costs money (not to mention time). Even though the hosting and other associated costs are still fairly low, it starts to add up. Especially if you want to deliver the experience that users are used to these days.
 
 I love free stuff as much as the next guy, but as I've gotten older and more "experienced", I've learned to appreciate the value of a good product. I've also learned that sometimes you have to pay for a good product. And that's ok. In fact, I almost prefer it.
@@ -24,7 +24,7 @@ When I pay for something, I think of it as an acknowledgement of these things:
 
 To that end, I'm introducing paid services in Sibbell.
 
-#### A la carte monthly pricing
+## A la carte monthly pricing
 Like I said, I like free stuff too. I want the core functionality of Sibbell to remain free and still do its job. As far as pricing models, I've toyed around with a few things. An obvious option, which you see in a lot of SaaS's, is to have a few tiers of features with different monthly costs. A variation on this that came to mind, which I can't think of too many examples of, is to break out the set of features (maybe 5 or 6) into small subscribtions that can be individually enabled - a la carte style. By small subscriptions, I really mean small - like $1 or $2 per month. My hope is that at that price, pulling the trigger should almost be a no-brainer for a user. For me, even if a fairly low percentage of users convert with an average of $2 a piece ($2 == 1 feature), Sibbell could pay for itself.
 
 Then again, maybe there's a reason I can't think of many examples of this kind of pricing model...we'll see.

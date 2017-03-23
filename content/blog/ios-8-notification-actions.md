@@ -13,10 +13,10 @@ Maybe I didn't look hard enough, who knows. Anyway I decided to make quick demo 
 
 ---
 
-### <span id="tutorial"></span>Tutorial
+# <span id="tutorial"></span>Tutorial
 All of the following can be found in a ready-to-go Xcode project on [GitHub](https://github.com/davegaeddert/tut-ios8-notifications), I know I always just jump there...
 
-#### Create a notification action
+## Create a notification action
 ```language-objectivec
 UIMutableUserNotificationAction *acceptAction = [[UIMutableUserNotificationAction alloc] init];
 acceptAction.identifier = @"ACCEPT_IDENTIFIER";
@@ -31,7 +31,7 @@ acceptAction.destructive = NO;
 // If YES requires passcode, but does not unlock the device
 acceptAction.authenticationRequired = NO;
 ```
-#### Create a notification action category
+## Create a notification action category
 This allows you to group notifications, so for a 'Mail' category your might have 'Reply', 'Delete', and 'Archive'. Right now we're creating an 'Invite' category, with our one action of 'Accept'.
 ```language-objectivec
 UIMutableUserNotificationCategory *inviteCategory = [[UIMutableUserNotificationCategory alloc] init];
@@ -46,7 +46,7 @@ inviteCategory.identifier = @"INVITE_CATEGORY";
 // [inviteCategory setActions:@[declineAction, acceptAction] forContext:UIUserNotificationActionContextMinimal];
 ```
 
-#### Now register for those notifications
+## Now register for those notifications
 ```language-objectivec
 UIUserNotificationType types = (UIUserNotificationTypeAlert | UIUserNotificationTypeBadge | UIUserNotificationTypeSound);
 
@@ -70,7 +70,7 @@ When registering notification settings, this callback will be called:
 }
 ```
 
-#### Send yourself a local notification
+## Send yourself a local notification
 ![](/img/blog/Screen-Shot-2014-09-16-at-6-02-50-PM.png)
 ![](/img/blog/Screen-Shot-2014-09-16-at-6-04-01-PM.png)
 ```language-objectivec
@@ -85,7 +85,7 @@ notification.fireDate = [NSDate dateWithTimeIntervalSinceNow:5];
 [[UIApplication sharedApplication] scheduleLocalNotification:notification];
 ```
 
-#### Handle the action
+## Handle the action
 
 Sweet! Now you should have received the notification (note: you need to be anywhere but the app to see the notification with its actions: home screen, lock screen, another app, etc.), if you choose the 'Accept' action we created then this callback will be called so you can deal with it.
 
