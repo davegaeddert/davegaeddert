@@ -1,5 +1,5 @@
 +++
-title = "Using hugo"
+title = "Using Hugo"
 date = "2017-03-23T16:31:07-05:00"
 
 +++
