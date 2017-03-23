@@ -4,6 +4,7 @@ baseURL = "https://davegaeddert.com/"
 languageCode = "en-us"
 pygmentsuseclasses = false
 googleAnalytics = "UA-54223125-1"
+theme = "cocoa"
 
 [permalinks]
 fixed = ":title/"
