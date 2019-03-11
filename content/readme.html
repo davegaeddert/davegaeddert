@@ -1,0 +1,11 @@
+{% extends "base.template.html" %}
+
+{% block content %}
+<div class="container mx-auto py-8">
+    <div class="text-right">
+        <a href="/"><img src="/img/davidgaeddert-500.jpg" alt="Dave Gaeddert" class="rounded-full shadow w-10"></a>
+    </div>
+
+    {% markdown %}{% include "_readme.md" %}{% endmarkdown %}
+</div>
+{% endblock %}
