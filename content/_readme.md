@@ -1,4 +1,4 @@
-## Day to day
+## Day-to-day
 
 **I don’t like mornings.**
 Never have,
@@ -81,9 +81,6 @@ it can be easier to gather information
 (if that's what you need)
 over the phone or chat.
 
-
-**I have a hard time letting problems or potential improvements in others work slip by.**
-
 ## Working
 
 **I don’t like having things on my schedule.**
@@ -111,6 +108,8 @@ I've done it enough that the building has started to feel like a repetitive task
 I still spend a lot of time conceptualizing,
 but try to avoid building until it really feels like an idea worth working.
 
+**I change my mind**
+
 ## Learning
 
 **I'm a "breadth-first" learner, not "depth-first".**
@@ -126,9 +125,13 @@ They kind of serve as physical placeholders for “ideas worth exploring when th
 
 **I learn by doing**
 
-I have a hard time knowing when to hand things off.
+## Managing
 
-I like solving problems. If you’re talking to me, and a problem comes up, I’ll really want to solve it — even if it isn’t mine to solve
+**I have a hard time knowing when to hand things off.**
+
+**I have a hard time letting problems or potential improvements in others work slip by.**
+
+**I like solving problems.** If you’re talking to me, and a problem comes up, I’ll really want to solve it -- even if it isn’t mine to solve.
 
 ---
 
