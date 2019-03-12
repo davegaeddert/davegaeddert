@@ -2,12 +2,35 @@
 
 {% block title %}README - davegaeddert{% endblock %}
 
+{% block extra_head %}
+<style>
+h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+    padding-bottom: .25rem;
+    border-bottom: 1px solid #e6e6e6;
+}
+p {
+    margin-bottom: 1rem;
+    line-height: 1.3;
+}
+.width-reading {
+    max-width: 35em;
+}
+</style>
+{% endblock %}
+
 {% block content %}
 <div class="container mx-auto py-8">
     <div class="text-right">
         <a href="/"><img src="/img/davidgaeddert-500.jpg" alt="Dave Gaeddert" class="rounded-full shadow w-10"></a>
     </div>
 
-    {% markdown %}{% include "_readme.md" %}{% endmarkdown %}
+    <div class="width-reading">
+        <h1>README</h1>
+        <small class="text-grey-dark">Updated 3/12/19</small>
+        {% markdown %}{% include "_readme.md" %}{% endmarkdown %}
+    </div>
 </div>
 {% endblock %}
