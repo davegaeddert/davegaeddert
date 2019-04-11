@@ -2,14 +2,11 @@
 
 **I don’t like mornings.**
 Never have,
-and I'm not sure I ever will.
+and doubt I ever will.
 If something is scheduled for the morning,
 then I will be there and have no problem with that.
 Otherwise,
-I don't set an alarm and have to concrete time that I plan to be at work.
-I wake up when I'm ready,
-or in recent years,
-when my family needs me to.
+I don't set an alarm and have no concrete time that I plan to be at work.
 That said,
 I'm usually working by 9 or 10am on most days.
 
@@ -17,17 +14,15 @@ I'm usually working by 9 or 10am on most days.
 You probably won't see me sitting around and chatting with co-workers over lunch.
 My days are short enough as-is (somewhat self-inflicted),
 and I prefer to use lunch as a time to continue thinking about what I'm working on.
-Processing things while physically away from a computer usually does a lot of good for me.
+Processing things while physically *away* from a computer usually does a lot of good for me.
 If I am eating lunch with somebody,
 we're probably talking about work related things.
 
 **I try not to do "deep work" after 11pm anymore.**
-I say "try" because I still do it sometimes.
-But always at the detriment of any real sleep.
-Once my brain gets going,
-it's hard to turn it back off.
-For a long time it was one of my most productive times of the day,
-but I'm getting old and my mornings are a little different than they used to be (👋 hi family!).
+Until a few years ago,
+it was my most productive time of the day.
+These days,
+it means a serious loss of sleep and a rough start to a family-filled morning.
 
 **I don’t make a lot of effort to greet people on my way in or out of the office.**
 I promise it's not personal.
@@ -40,16 +35,19 @@ If I don't stop to talk it's because I don't want to get distracted before I eve
 The same can probably be said any time you see me during the work day.
 A lot of my work is independent and I'm just trying to stay focused while I have the time to do so.
 
-## Communicating
+## Working with me
 
 **I finish people’s sentences sometimes.**
-If I do, it usually means that I'm very engaged and am trying to push the conversation forward more quickly.
-If it's bothering you, I can usually tell and try to stop. If I don't, then tell me!
+If I do,
+it usually means that I'm very engaged and am trying to push the conversation forward more quickly.
+If it's bothering you and I don't notice then tell me to stop.
 
 **I cut people off or abruptly change topics sometimes.**
 If I do, it's because my mind has moved on and it feels like we all should.
 If you weren't ready,
-say something and I will be more than happy to go back and re-enagage.
+say something and I will be more than happy to go back and re-engage.
+Also, sometimes I do this *temporarily* feeling like we exhausted the ideas for that moment,
+and will come back to it a few minutes later if an idea pops into my head.
 
 **I don’t like to talk about myself (or my work).**
 If you ask me something,
@@ -61,27 +59,70 @@ unless it's relevant to something else.
 **I over-explain things sometimes.**
 At least it feels that way to me.
 If I do,
-it's because I'm getting the sense that an idea hasn't connected yet.
+it's because I'm getting the sense that my idea hasn't connected yet.
 I don't like to drop things without some resolution,
 and will probably keep going until we get to that point
 or until it's painfully obvious that we won't be able to
 (which may be a fine resolution in itself).
+If you feel that it's not a conversation that we should be having together in the first place,
+feel free to tell me and save us both the headache.
 
-**It takes me a long time to condense ideas down into written form for others to easily consume.**
+**It takes me a long time to condense ideas down for others to easily consume.**
 Probably the same reason conversations with me about seemingly simple things can take so long.
+Boiling things down is a skill and I'm trying pretty hard to get better at it.
+But, spitting out a simple answer without any rationale isn't always helpful either.
 
 **I don’t like talking to clients/customers on the phone.**
 It’s probably a flaw.
 But,
 I think that solving other people’s problems is hard,
 and the best answer is usually not the first one.
-So I prefer to think on it without the pressure of responding right away.
-On the other hand,
-it can be easier to gather information
-(if that's what you need)
-over the phone or chat.
+So I prefer to think on it without the pressure of responding right away --
+especially if it's more of an "I'm the expert" situation than a collaborative thing.
 
-## Working
+**Tell me if you disagree.**
+I'd rather know I'm wrong now than two months from now.
+I don't enjoy being wrong,
+but there's a big difference between being wrong before a decision is made and after.
+There is nothing more frustrating to me than finding out two hours/days/months/years later that I made a bad call,
+and that you felt that way before and didn't tell me.
+I can handle the criticism,
+and will disagree with you anyway if I feel strongly enough.
+The most important thing to me is that we arrive at the best answer we can at that point in time.
+
+**"Strong opinions, weakly held."**
+I think this applies to me.
+You might be surprised how easily you can change my mind sometimes.
+Often times I throw out *an* answer without expecting it to be *the* answer --
+just so there is a place to start and something to either agree or disagree with.
+Again, I'd much rather we get to *the* answer than *my* answer.
+
+**I hedge my bets when writing and talking.**
+"Probably" is among the words you'll hear me use a lot.
+And every synonym of it.
+I think it's because I like to leave myself an "out" for when I change my mind or am wrong.
+I would also like to think that it gives other people an opening to disagree with me more easily,
+but who knows.
+
+**I can often be part (or all) of the reason meetings go too long.**
+Most of the stuff I’m involved in are with small teams,
+who do lots of other things too,
+and don’t get to share ideas as often as I’d like.
+So when we’re together a lot of stuff can come spilling out.
+And I’m pretty much ok with that.
+I try to be good about keeping it relevant and useful for everyone involved.
+But if it isn’t,
+tell me so we can all move on.
+
+**I don't like it if you nod along even though you're not following.**
+I try to pick up on this,
+but don't always know what to do differently.
+If we're talking about something that you're going to have to walk away and do,
+make sure you're following what I'm saying.
+And don't be afraid to tell me if you aren't.
+I understand that conversations with me can feel long sometimes,
+but I try really hard to make sure everything I say is for a reason.
+If you don't know what the reason is -- ask me.
 
 **I don’t like having things on my schedule.**
 They make me anxious and unproductive.
@@ -106,11 +147,15 @@ I used to enjoy the actual building as much as I did the conceptualizing.
 These days,
 I've done it enough that the building has started to feel like a repetitive task (see previous point).
 I still spend a lot of time conceptualizing,
-but try to avoid building until it really feels like an idea worth working.
+but try to avoid building until it really feels like an idea worth working on.
 
-**I change my mind**
-
-## Learning
+**A lot of my time is spent building things to make others more effective at their job.**
+But everybody thinks and works differently.
+If I don’t get any feedback,
+then I am going to do what makes the most sense to me personally.
+A lot of times though,
+the thing I’m building will be used by others more than I’ll use it myself.
+I get frustrated when this is the case and people don't give any input to go off of.
 
 **I'm a "breadth-first" learner, not "depth-first".**
 Said another way, I'm probably more of a generalist than a specialist.
@@ -118,33 +163,34 @@ And I take an 80/20 approach to learning --
 learning 20% of the material will usually allow me to do 80% of what I need.
 It gets me into trouble at times,
 but usually when that time comes,
-I've got a big enough problem to justify "going deep" myself or through someone else.
+I've got a big enough problem to justify going "deep" myself or asking someone else to.
 
-**I’m better at buying books than reading them.**
-They kind of serve as physical placeholders for “ideas worth exploring when the time comes”. I find that all books are not relevant at all times. A good book to read today might not be such a good read a year from now — relevancy matters. (Non fiction anyway). It’s more like a personal library. https://patrickcollison.com/bookshelf
+**I learn by doing.**
+At a certain point, I think the best way to decide if an idea is good or not is to try it.
+There is no substitute for looking at and using the real thing --
+no matter how good you think you are at envisioning it.
 
-**I learn by doing**
+**I have a hard time *not* solving your problems.**
+If you're working on something and *don't* want me to solve it for you,
+then you almost can't even mention it.
+As soon as I hear something in my realm of understanding,
+I start thinking about it and throwing out ideas.
+I'm trying to get better about giving people space to figure things out on their own,
+but consider giving me a heads up that you don't want to hear ideas or feedback yet if that's the case.
 
-## Managing
+**I try to be nice when being critical.**
+But I know some critiques can be painful regardless (they are on me too).
+If I provide a critique,
+it’s because I see a real probleem or a meaningful improvement --
+not just because I want to put you down.
+If I don’t see an upside to it then I won't say it.
+If you feel like I'm calling out things that don't matter,
+ask me, "Does this really matter?"
+Sometimes I'm just frustrated about other things and not thinking clearly.
 
-**I have a hard time knowing when to hand things off.**
-
-**I have a hard time letting problems or potential improvements in others work slip by.**
-
-**I like solving problems.** If you’re talking to me, and a problem comes up, I’ll really want to solve it -- even if it isn’t mine to solve.
-
----
-
-I really like to build things. It’s how I learn. It’s also when ideas become concrete and have to live or die.
-
-I like to be right. But I don’t dislike it when I’m wrong. I wish people would push back on me more often. If we can’t come up with a better answer, then the one we have is probably good enough.
-
-I try to be nice. And think that I usually am. But I know some critiques can be painful regardless (they are to me too). If I provide a critique, it’s because I really think it needs to be said — not just because I want to put someone down. If I don’t see an upside to it, I won’t say it and often don’t unless I’m frustrated. I have a hard time balancing this sometimes — it depends on my mood. Some days I call out lots of problems. Other days I don’t. It ebbs and flows with my mood and the mood of others and the work.
-
-I can often be part (or all) of the reason meetings go too long. Most of the stuff I’m involved in are with small teams, who do lots of other things too, and don’t share ideas as much as I’d like. So when we’re together a lot of stuff can come spilling out. And I’m pretty much ok with that. I try to be good about keeping it relevant and useful for everyone involved. But if it isn’t, tell me so we can all move on. Odds are that I want to move on too but am talking until I get the sense that an idea is clicking or it is not, so that I know what to do with it.
-
-A good chunk of my time is spent building things to make others more effective at their job. But everybody thinks and works differently. If I don’t get any feedback, then I am going to do what makes the most sense to me personally. A lot of times though, the thing I’m building will be used by others more than I’ll use it myself. I get frustrated when this is the case and there’s not much input to go off of.
-
-I hedge my bets in writing.
-
-If I'm in a bad mood, I will call out every thing I see that I don't like. Just ask my wife.
+**I'm quick to change processes.**
+I understand that not everyone likes constant change.
+Worse though to me,
+is recognizing that something needs to change and being afraid to do it.
+I'm trying to learn where to draw this line,
+but I think people underestimate how much impact a small change can have in your day-to-day work.
