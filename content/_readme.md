@@ -135,7 +135,7 @@ it just occupies more space in my brain than I want it to.
 They make me physically antsy.
 Not joking.
 If something is either going to take me 10 minutes to do by hand,
-or 15 minute to create a system to do it for me,
+or 15 minutes to create a system to do it for me,
 I will choose building the system every time.
 I don't know where that line is exactly,
 but it's heavily skewed *away* from manual work
