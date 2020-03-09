@@ -194,3 +194,7 @@ Worse though to me,
 is recognizing that something needs to change and being afraid to do it.
 I'm trying to learn where to draw this line,
 but I think people underestimate how much impact a small change can have in your day-to-day work.
+
+**I'd rather be overwhelmed than underwhelmed.**
+I feel better, and do better, when my plate is full.
+I think that this is also the best way to find new solutions for getting things done and figure out which things really matter.
