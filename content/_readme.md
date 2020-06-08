@@ -181,7 +181,7 @@ but consider giving me a heads up that you don't want to hear ideas or feedback 
 **I try to be nice when being critical.**
 But I know some critiques can be painful regardless (they are on me too).
 If I provide a critique,
-it’s because I see a real probleem or a meaningful improvement --
+it’s because I see a real problem or a meaningful improvement --
 not just because I want to put you down.
 If I don’t see an upside to it then I won't say it.
 If you feel like I'm calling out things that don't matter,
