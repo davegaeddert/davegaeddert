@@ -102,6 +102,7 @@ Again, I'd much rather we get to *the* answer than *my* answer.
 And every synonym of it.
 I think it's because I like to leave myself an "out" for when I change my mind or am wrong.
 I would also like to think that it gives other people an opening to disagree with me more easily,
+or propose their own ideas,
 but who knows.
 
 **I can often be part (or all) of the reason meetings go too long.**
@@ -122,7 +123,7 @@ make sure you're following what I'm saying.
 And don't be afraid to tell me if you aren't.
 I understand that conversations with me can feel long sometimes,
 but I try really hard to make sure everything I say is for a reason.
-If you don't know what the reason is -- ask me.
+If you don't know what the reason is, ask me.
 
 **I don’t like having things on my schedule.**
 They make me anxious and unproductive.
